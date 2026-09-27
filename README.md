@@ -10,7 +10,7 @@ C++ · DSP · JUCE · Max/MSP · Audio ML · Real-Time Systems
 ## Languages & tools
 
 <p>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="42" alt="C++" title="C++" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" title="C++" />&nbsp;
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="42" alt="C" title="C" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" title="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />&nbsp;
