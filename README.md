@@ -33,7 +33,7 @@ C++ · DSP · JUCE · Max/MSP · Audio ML · Real-Time Systems
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/juce/888888" height="42" alt="JUCE" title="JUCE" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/juce-framework/JUCE/master/extras/Projucer/Source/Assets/AppIcon.icon/Assets/juceicon.svg" height="42" alt="JUCE" title="JUCE" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ableton" height="42" alt="Ableton Live" title="Ableton Live" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cycling74/888888" height="42" alt="Cycling '74 / Max" title="Cycling '74 / Max" />
 </p>
