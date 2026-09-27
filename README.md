@@ -5,7 +5,7 @@
 **Audio Software & Creative Technology Engineer**  
 C++ · DSP · JUCE · Max/MSP · Audio ML · Real-Time Systems
 
-[Portfolio](https://ostinsolo.github.io/ostin-solo-portfolio/) · [CV PDF](https://github.com/ostinsolo/ostin-solo-portfolio/raw/main/Agostino_Scalzullo_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/agostino-scalzullo-156952121) · [VSTOPIA](https://vstopia.com)
+[Website](https://ostinsolo.co.uk) · [Portfolio](https://ostinsolo.github.io/ostin-solo-portfolio/) · [CV PDF](https://github.com/ostinsolo/ostin-solo-portfolio/raw/main/Agostino_Scalzullo_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/agostino-scalzullo-156952121) · [VSTOPIA](https://vstopia.com)
 
 ## Languages & tools
 
