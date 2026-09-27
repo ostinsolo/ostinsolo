@@ -10,8 +10,8 @@ C++ · DSP · JUCE · Max/MSP · Audio ML · Real-Time Systems
 ## Languages & tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" title="C++" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="42" alt="C" title="C" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="C++" title="C++" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="42" alt="C" title="C" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" title="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
@@ -39,13 +39,13 @@ I build audio software and experimental musical systems across native C++, plug-
 - **Native audio & plug-ins:** C++, JUCE, VST3/AU, Max SDK, cross-platform builds.
 - **Audio ML:** source separation, target-speaker isolation, neural audio runtimes and model optimisation.
 - **Creative interaction:** MPE, multitouch, computer vision, projection systems and browser-based musical tools.
-- **Networked audio:** real-time audio/MIDI collaboration and DAW synchronisation.
+- **Networked audio:** WebRTC, UDP/TCP audio streaming, real-time audio/MIDI collaboration and DAW synchronisation.
 
 ## Selected work
 
 - **Dynamic Split Module / DSU** — neural source separation and sampling systems for music production.
 - **OpenMultitouch / Klic** — native Max/MSP externals for multitouch, sensors and MPE-oriented interaction.
-- **AUDIOENCE** — C++/JUCE/WebRTC real-time audio, MIDI and DAW synchronisation.
+- **AUDIOENCE / networked audio** — C++/JUCE/WebRTC real-time audio, MIDI and DAW synchronisation, plus [Max/MSP → UDP/TCP → Node.js audio streaming](https://github.com/ostinsolo/MaxMSP-Audio-via-UDP-for-voice-recognition) for voice/audio processing.
 - **Web-Based Max/MSP Environment** — browser-side patch graphs, object systems and Max/RNBO compatibility research.
 
 <div align="center">
