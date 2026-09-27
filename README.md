@@ -47,13 +47,14 @@ I build audio software and experimental musical systems across native C++, plug-
 - **Native audio & plug-ins:** C++, JUCE, VST3/AU, Max SDK, cross-platform builds.
 - **Audio ML:** source separation, target-speaker isolation, neural audio runtimes and model optimisation.
 - **Creative interaction:** MPE, multitouch, computer vision, projection systems and browser-based musical tools.
-- **Networked audio:** WebRTC, UDP/TCP audio streaming, real-time audio/MIDI collaboration and DAW synchronisation.
+- **Networked audio:** WebRTC audio/MIDI collaboration and DAW synchronisation, plus separate Max/Jitter UDP/TCP audio transport work.
 
 ## Selected work
 
 - **Dynamic Split Module / DSU** — neural source separation and sampling systems for music production.
 - **OpenMultitouch / Klic** — native Max/MSP externals for multitouch, sensors and MPE-oriented interaction.
-- **AUDIOENCE / networked audio** — C++/JUCE/WebRTC real-time audio, MIDI and DAW synchronisation, plus [Max/MSP → UDP/TCP → Node.js audio streaming](https://github.com/ostinsolo/MaxMSP-Audio-via-UDP-for-voice-recognition) for voice/audio processing.
+- **AUDIOENCE** — C++/JUCE/WebRTC real-time audio, MIDI and DAW synchronisation.
+- **Max/MSP UDP/TCP Audio Streaming** — [public Max/Jitter + Node.js reference project](https://github.com/ostinsolo/MaxMSP-Audio-via-UDP-for-voice-recognition) for low-latency Float32 audio transport and voice/audio processing.
 - **Web-Based Max/MSP Environment** — browser-side patch graphs, object systems and Max/RNBO compatibility research.
 
 ## Builds & experiments
