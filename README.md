@@ -25,6 +25,14 @@ C++ · DSP · JUCE · Max/MSP · Audio ML · Real-Time Systems
 </p>
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" title="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="42" alt="PHP" title="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="42" alt="Laravel" title="Laravel" />
+</p>
+
+<p>
   <img src="https://cdn.simpleicons.org/juce/888888" height="42" alt="JUCE" title="JUCE" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ableton" height="42" alt="Ableton Live" title="Ableton Live" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cycling74/888888" height="42" alt="Cycling '74 / Max" title="Cycling '74 / Max" />
