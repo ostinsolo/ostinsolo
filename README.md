@@ -55,3 +55,7 @@ I build audio software and experimental musical systems across native C++, plug-
 - **OpenMultitouch / Klic** — native Max/MSP externals for multitouch, sensors and MPE-oriented interaction.
 - **AUDIOENCE / networked audio** — C++/JUCE/WebRTC real-time audio, MIDI and DAW synchronisation, plus [Max/MSP → UDP/TCP → Node.js audio streaming](https://github.com/ostinsolo/MaxMSP-Audio-via-UDP-for-voice-recognition) for voice/audio processing.
 - **Web-Based Max/MSP Environment** — browser-side patch graphs, object systems and Max/RNBO compatibility research.
+
+## Builds & experiments
+
+- **[Custom TensorFlow 2.17 CPU build](https://github.com/ostinsolo/Audio-Engineer-Sound-Design-LLM/releases/tag/v0.0.2)** — Python 3.11 macOS x86_64 wheel compiled for Intel CPUs with AVX2 and FMA optimisations.
