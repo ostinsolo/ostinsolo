@@ -51,11 +51,12 @@ I build audio software and experimental musical systems across native C++, plug-
 
 ## Selected work
 
-- **Dynamic Split Module / DSU** — neural source separation and sampling systems for music production.
+- **DSm — Dynamic Split Module** — neural source separation and sampling environment for Ableton Live / Max for Live. [Cycling ’74 project](https://cycling74.com/projects/dynamic-split-module-websampler-with-63-audio-separation-models-in-ableton-1)
 - **OpenMultitouch / Klic** — native Max/MSP externals for multitouch, sensors and MPE-oriented interaction.
+- **Pendolo** — physics-based generative MIDI and modulation system for Ableton Live / Max for Live. [Cycling ’74 project](https://cycling74.com/projects/pendolo)
 - **AUDIOENCE** — C++/JUCE/WebRTC real-time audio, MIDI and DAW synchronisation.
 - **Max/MSP UDP/TCP Audio Streaming** — [public Max/Jitter + Node.js reference project](https://github.com/ostinsolo/MaxMSP-Audio-via-UDP-for-voice-recognition) for low-latency Float32 audio transport and voice/audio processing.
-- **Web-Based Max/MSP Environment** — browser-side patch graphs, object systems and Max/RNBO compatibility research.
+- **Web-Based Max/MSP Environment** — browser-side patch graphs, object systems and Max/RNBO compatibility research. [Public demo — static preview](https://ostinsolo.github.io/max-object-network-demo/)
 
 ## Builds & experiments
 
