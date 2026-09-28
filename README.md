@@ -3,7 +3,7 @@
 # AGOSTINO SCALZULLO · OSTIN SOLO
 
 **Audio Software & Creative Technology Engineer**  
-C++ · DSP · JUCE · Max/MSP · Audio ML · Real-Time Systems
+C++ · DSP · JUCE · Max/MSP · Audio ML · Deep Learning · Real-Time Systems
 
 [Website](https://ostinsolo.co.uk) · [Portfolio](https://ostinsolo.github.io/ostin-solo-portfolio/) · [CV PDF](https://github.com/ostinsolo/ostin-solo-portfolio/raw/main/Agostino_Scalzullo_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/agostino-scalzullo-156952121) · [VSTOPIA](https://vstopia.com)
 
@@ -45,7 +45,7 @@ C++ · DSP · JUCE · Max/MSP · Audio ML · Real-Time Systems
 I build audio software and experimental musical systems across native C++, plug-ins, Max/MSP, real-time DSP, machine-learning audio and interactive interfaces.
 
 - **Native audio & plug-ins:** C++, JUCE, VST3/AU, Max SDK, cross-platform builds.
-- **Audio ML:** source separation, target-speaker isolation, neural audio runtimes and model optimisation.
+- **Audio ML / Deep Learning:** source separation, target-speaker isolation, neural audio runtimes and model optimisation.
 - **Creative interaction:** MPE, multitouch, computer vision, projection systems and browser-based musical tools.
 - **Networked audio:** WebRTC audio/MIDI collaboration and DAW synchronisation, plus separate Max/Jitter UDP/TCP audio transport work.
 
